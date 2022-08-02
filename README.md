@@ -36,8 +36,8 @@ ls -la
 If you need help to get started with hsh simple shell, email one of the contributers as listed in [AUTHORS](https://github.com/daveeazi/simple_shell/blob/master/AUTHORS).
 
 ## Authors
-* [**David Atat**](https://github.com/daveeazi)
-* [**Alphonsus Oshiole**](https://github.com/Alphydoo)
+* [**David Atat**](https://github.com/daveeazi) Mail at: <davidatat8@gmail.com>
+* [**Alphonsus Oshiole**](https://github.com/Alphydoo) Mail at <aaoshiole@yahoo.com>
 
 ## Acknowledgments
 - Our fellow cohort members.
