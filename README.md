@@ -32,6 +32,9 @@ ls -la
 ```
 ![screenshot of shell](https://user-images.githubusercontent.com/30075600/114757753-e50c2180-9d64-11eb-95ea-fb9bba776c8c.png)
 
+## Help
+If you need help to get started with hsh simple shell, email one of the contributers as listed in [AUTHORS](https://github.com/daveeazi/simple_shell/blob/master/AUTHORS).
+
 ## Authors
 * [**David Atat**](https://github.com/daveeazi)
 * [**Alphonsus Oshiole**](https://github.com/Alphydoo)
