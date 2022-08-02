@@ -3,6 +3,7 @@
 
 ### C Group Project Syscall
 This group project describes a simple UNIX command interpreter based on bash and Sh
+It implements some of the functionalities of the original bash shell such as; listing, searching in the path variable, exit and env builtins, among others. It is built for learning purposes and as a required project for [Alx Software Engineering](https://www.alxafrica.com/) curriculum
 
 ### Description
 This is a shell written in [C](https://en.wikipedia.org/wiki/C_(programming_language)).<br>
