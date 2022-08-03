@@ -15,7 +15,7 @@ Clone the below repository and compile the files into an executable using the GC
 https://github.com/daveeazi/simple_shell.git.
 ```
 ## Environment
-Our shell was built and tested on  Ubuntu 14.04 LTS.
+Our shell was built and tested on  Ubuntu 20.04 LTS.
 
 ### Basic usage :bulb:
 - First, [fork this repository](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo).
